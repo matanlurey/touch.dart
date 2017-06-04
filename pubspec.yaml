@@ -1,0 +1,14 @@
+name: touch
+description: >
+  Browser abstraction for Touch and Mouse.
+version: 0.1.0
+authors:
+  - Matan Lurey <matanl@google.com>
+homepage: https://github.com/matanlurey/touch.dart
+
+environment:
+  sdk: ">=1.22.0 <2.0.0"
+
+dependencies:
+  js: ^0.6.1
+  meta: ^1.0.5
